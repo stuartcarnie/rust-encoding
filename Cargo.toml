@@ -1,0 +1,10 @@
+[package]
+name = "encoding"
+version = "0.1.0"
+authors = ["Stuart Carnie <stuart.carnie@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+#[profile.release]
+#debug = true
